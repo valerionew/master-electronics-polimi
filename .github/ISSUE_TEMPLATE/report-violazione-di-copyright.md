@@ -1,14 +1,14 @@
 ---
-name: Report violazione di copyright
-about: Credo che un file nel repository violi il copyright mio o altrui
-title: Report di violazione di copyright
+name: Report copyright violation
+about: I belive that a file in the repository violates my or somebody else's copyright
+title: Copyright violation
 labels: Copyright
 assignees: ''
 
 ---
 
-**Link del file che viola il copyright**:  
-es: https://github.com/5N44P/triennale-elettronica-polimi/.../file.pdf
+**Link to the file that violates the copyright**:  
+es: https://github.com/5N44P/master-electronics-polimi/.../file.pdf
 
-- [ ] Sono il detentore del copyright
-- [ ] Non sono il detentore del copyright
+- [ ] I am the copyright owner
+- [ ] I am **NOT** the copyright owner
